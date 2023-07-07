@@ -1,11 +1,11 @@
-package ru.netology.PatternsFirstTask.Test;
+package ru.netology.patternsfirsttask.test;
 
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Keys;
-import ru.netology.PatternsFirstTask.Data.DataGenerator;
+import ru.netology.patternsfirsttask.data.DataGenerator;
 
 import java.time.Duration;
 

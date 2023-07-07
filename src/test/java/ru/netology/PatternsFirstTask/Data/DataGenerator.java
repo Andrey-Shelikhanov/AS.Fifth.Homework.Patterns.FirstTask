@@ -1,4 +1,4 @@
-package ru.netology.PatternsFirstTask.Data;
+package ru.netology.patternsfirsttask.data;
 
 import com.github.javafaker.Faker;
 import lombok.Value;
